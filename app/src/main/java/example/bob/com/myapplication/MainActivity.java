@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
 //21321213
 
+        int i = 10/0;
+
 
 
 
